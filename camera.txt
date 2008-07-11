@@ -1,1 +1,1 @@
-Resolution=2Mpx
+Resolution=3Mpx, Autofocus, Video=VGA

@@ -1,1 +1,1 @@
-Resolution=3Mpx, Autofocus, Video=VGA
+Resolution=8MPx, Autofocus, Video=Full HD
